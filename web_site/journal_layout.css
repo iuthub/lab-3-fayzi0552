@@ -1,0 +1,54 @@
+body {
+	background: url("images/bg.png")
+}
+.clear{
+	clear: both;
+}
+.all{
+	border: 10px white solid;
+	background-color: white;
+	margin-right: 10%;
+	margin-left: 10%;
+	
+}
+
+.header{
+
+	
+	text-align: right;
+	background-color: #A8F0F0;
+	
+}
+.header1{
+	font-size: 14pt;	
+	
+}
+.article{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+
+}
+.article img{
+	float: right;
+}
+.date {
+	border-bottom: blue dashed 2px;
+	
+	
+}
+.left{
+	display: inline-block;
+	width: 33.3%;
+	float: left;
+	border: 4px blue solid;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	background-color: #C2E9E9;
+}
+.content{
+	width: 63%;
+	display: inline-block;
+}
